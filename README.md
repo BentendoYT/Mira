@@ -1,14 +1,15 @@
-# <img width="350" height="116" alt="MiraGG_logo_smaller (1)" src="https://github.com/user-attachments/assets/68d4dcb8-a4f5-456d-8aa0-ca2086a0fa17" />
+# <img width="880" height="323" alt="MiraGG_logo" src="https://github.com/user-attachments/assets/ac9f3b6d-77e7-4c9c-8815-bc7d0863022d" />
 
 
-This repository will soon contain the full source code of **Mira.GG**, an open-source **Among Us Mod Launcher**.  
+
+This repository will soon contain the full source code of **Mira**, an open-source **Among Us Mod Launcher**.  
 
 ---
 
-## What is Mira.GG? <img width="64" height="64" alt="Sherlock" src="https://github.com/user-attachments/assets/1d66e822-5de4-4185-97ed-bcac7aeb09c0" />
+## What is Mira? <img width="64" height="64" alt="Sherlock" src="https://github.com/user-attachments/assets/1d66e822-5de4-4185-97ed-bcac7aeb09c0" />
 
 
-Mira.GG is a lightweight, open-source launcher that makes it simple to install, update, and play Among Us with community mods.  
+Mira is a lightweight, open-source launcher that makes it simple to install, update, and play Among Us with community mods.  
 No manual file copying, no complicated setups — just launch and play.  
 
 ---
