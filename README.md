@@ -1,4 +1,5 @@
-# <img width="880" height="323" alt="Mira_logo_github" src="https://github.com/user-attachments/assets/da19b1af-c76a-47df-baab-21d11fb5e118" />
+# <img width="880" height="323" alt="MiraGG_logo" src="https://github.com/user-attachments/assets/58fd3bdf-babf-4fd2-9ea0-a62f40631c58" />
+
 
 
 
